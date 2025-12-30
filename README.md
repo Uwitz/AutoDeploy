@@ -28,3 +28,6 @@ python main.py
 ```bash
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
+
+> NOTE:
+> This project is still incomplete, therefore may not work as intended.
